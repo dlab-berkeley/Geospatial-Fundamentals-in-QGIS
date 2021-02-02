@@ -14,3 +14,5 @@ Workshop participants should download and install the latest long term stable re
 This is a six hour workshop that can be presented in two three hour sessions.
 
 No prior knowledge is expected for this workshop.
+
+*last updated 2/1/2021*

@@ -1,7 +1,6 @@
 # Geospatial-Fundamentals-in-QGIS
 
-- [Geospatial Fundamentals in QGIS, parts 1-2](https://docs.google.com/presentation/d/15ZaLJ7uMcvebyeslekqbq8EHYs0aL0evi0QPNsGiMg0/edit?usp=sharing) (slides)
-- [Additional Materials](https://drive.google.com/file/d/1h1e8VMRMuC2A7y6dyLN1srElAILCY0ZX/view?usp=sharing) (folder)
+- [Geospatial Fundamentals in QGIS, parts 1-2](https://drive.google.com/drive/folders/1cEEMKIEXNClXTdPaDYEIazNB0gs0_QlT) 
 
 ---
 
